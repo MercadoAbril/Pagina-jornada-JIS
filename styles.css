@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    padding: 2%;
+    color: rgb(14, 78, 5);
+    background-color: aquamarine;
+}
+img{
+    margin-left: 40%;
+    width: 400px;
+
+}
+p{
+    margin: 2%;
+    font-size: larger;
+    color: black;
+    background-color: rgb(0, 185, 185);
+}
+h2{
+    text-align: center;
+    color: rgb(28, 102, 65);
+}
+li{
+    margin-left: 2%;
+    font-size: xx-large;
+    font-style:normal;
+    color: rgb(6, 61, 34);
+    
+}
+ul{
+    font-size: x-large;
+    color: black;
+    background-color: aliceblue;
+}
+body{
+    background-image: url(mar.png);
+    background-size: cover;
+}

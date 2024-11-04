@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 300%;
+    color: crimson;
+    padding: 2%;
+}
+body{
+    background-color: antiquewhite;
+}
+.dengue{
+    width: 400px;
+    margin-left: 39%;
+}
+.texto{
+    width: 98%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.texto2{
+    width: 98%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.texto3{
+    width: 98%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -1%;
+    text-align: center;
+}
